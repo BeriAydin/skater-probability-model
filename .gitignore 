@@ -1,0 +1,14 @@
+# Ignorera cachefiler och temporära filer
+__pycache__/
+*.pyc
+
+# Ignorera Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignorera stora datafiler
+*.parquet
+*.csv
+
+# Ignorera macOS-systemfiler (om du använder Mac)
+.DS_Store
+
